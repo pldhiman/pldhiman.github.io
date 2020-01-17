@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20232ade.chunk.css",
+    "main.js": "/static/js/main.c73ed69f.chunk.js",
+    "main.js.map": "/static/js/main.c73ed69f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.cb3647ef.chunk.css": "/static/css/2.cb3647ef.chunk.css",
+    "static/js/2.226ac706.chunk.js": "/static/js/2.226ac706.chunk.js",
+    "static/js/2.226ac706.chunk.js.map": "/static/js/2.226ac706.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.519bcf6f79663408e7ca1fdd3c516d23.js": "/precache-manifest.519bcf6f79663408e7ca1fdd3c516d23.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cb3647ef.chunk.css.map": "/static/css/2.cb3647ef.chunk.css.map",
+    "static/css/main.20232ade.chunk.css.map": "/static/css/main.20232ade.chunk.css.map",
+    "static/media/main.scss": "/static/media/prepshop-sprite.5795203d.png",
+    "static/media/add1.jpg": "/static/media/add1.06d788ba.jpg",
+    "static/media/book.png": "/static/media/book.addb7f89.png",
+    "static/media/client-logo1.png": "/static/media/client-logo1.3d487388.png",
+    "static/media/logo.png": "/static/media/logo.8824700e.png",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
+    "static/media/slider-banner.png": "/static/media/slider-banner.17d70611.png"
+  }
+}
