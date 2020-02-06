@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "362509b568c7d466cf56ff00e17d7fb0",
+    "revision": "1b71593da7dc6e2db0101bbe82d6833e",
     "url": "/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.4c686d98.chunk.css"
   },
   {
-    "revision": "cce23ce2f009f13619d8",
-    "url": "/static/css/main.5c8d14ad.chunk.css"
+    "revision": "5150d70555280128473b",
+    "url": "/static/css/main.fb4f883e.chunk.css"
   },
   {
     "revision": "e2cd3ad0cb434595b048",
     "url": "/static/js/2.ad2a66e6.chunk.js"
   },
   {
-    "revision": "cce23ce2f009f13619d8",
-    "url": "/static/js/main.468da956.chunk.js"
+    "revision": "5150d70555280128473b",
+    "url": "/static/js/main.79effbc8.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "663b4fcc5530ccf49d6b31a9450b02a0",
     "url": "/static/media/Metropolis-Regular.663b4fcc.woff"
+  },
+  {
+    "revision": "e66a6a1017b8c267aefb7d6ddfb4cc2b",
+    "url": "/static/media/about-banner.e66a6a10.png"
   },
   {
     "revision": "06d788ba7f05ebdc0a7e67113c70f9ec",

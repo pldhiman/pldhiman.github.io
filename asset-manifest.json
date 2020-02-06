@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c8d14ad.chunk.css",
-    "main.js": "/static/js/main.468da956.chunk.js",
+    "main.css": "/static/css/main.fb4f883e.chunk.css",
+    "main.js": "/static/js/main.79effbc8.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "static/css/2.4c686d98.chunk.css": "/static/css/2.4c686d98.chunk.css",
     "static/js/2.ad2a66e6.chunk.js": "/static/js/2.ad2a66e6.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.fe330844db7c3e800a581f6c3cdcc4af.js": "/precache-manifest.fe330844db7c3e800a581f6c3cdcc4af.js",
+    "precache-manifest.c752f693eefc7fdf64be548316e22400.js": "/precache-manifest.c752f693eefc7fdf64be548316e22400.js",
     "service-worker.js": "/service-worker.js",
     "static/media/main.scss": "/static/media/prepshop-sprite.5795203d.png",
     "static/media/add1.jpg": "/static/media/add1.06d788ba.jpg",
