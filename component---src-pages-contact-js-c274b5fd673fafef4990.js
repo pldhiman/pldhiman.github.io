@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{"Cuy+":function(n,t,e){"use strict";e.r(t);var a=e("q1tI"),c=e.n(a);t.default=function(){return c.a.createElement("div",null,"contact page")}}}]);
