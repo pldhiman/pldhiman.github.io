@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a6ad877.chunk.css",
+    "main.js": "/static/js/main.c4b1b6de.chunk.js",
+    "main.js.map": "/static/js/main.c4b1b6de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f727e0a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f727e0a5.js.map",
+    "static/js/2.ce906a9e.chunk.js": "/static/js/2.ce906a9e.chunk.js",
+    "static/js/2.ce906a9e.chunk.js.map": "/static/js/2.ce906a9e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5a9bdadb06be2e6ac36024e14220999f.js": "/precache-manifest.5a9bdadb06be2e6ac36024e14220999f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1a6ad877.chunk.css.map": "/static/css/main.1a6ad877.chunk.css.map",
+    "static/js/2.ce906a9e.chunk.js.LICENSE.txt": "/static/js/2.ce906a9e.chunk.js.LICENSE.txt",
+    "static/media/1. Login.png": "/static/media/1. Login.cad238cd.png",
+    "static/media/10. Bank Account 3.png": "/static/media/10. Bank Account 3.0d24fc1f.png",
+    "static/media/11. Order info.png": "/static/media/11. Order info.8566d10d.png",
+    "static/media/12. Contact Us.png": "/static/media/12. Contact Us.c654f13f.png",
+    "static/media/13. Feedback.png": "/static/media/13. Feedback.5bde5444.png",
+    "static/media/14. Terms & conditons.png": "/static/media/14. Terms & conditons.ed737463.png",
+    "static/media/2. Home.png": "/static/media/2. Home.4d75a34d.png",
+    "static/media/4. Profile 3.png": "/static/media/4. Profile 3.7127199f.png",
+    "static/media/5. My Addresses 1.png": "/static/media/5. My Addresses 1.afa5f1aa.png",
+    "static/media/7. My Addresses 3.png": "/static/media/7. My Addresses 3.d52c2705.png",
+    "static/media/8. Bank Account 1.png": "/static/media/8. Bank Account 1.5d376435.png",
+    "static/media/PrepStar_Logo-11.png": "/static/media/PrepStar_Logo-11.6ed6d16c.png",
+    "static/media/PrepStar_Logo.png": "/static/media/PrepStar_Logo.34a39468.png",
+    "static/media/loginBg.png": "/static/media/loginBg.09fea3fe.png",
+    "static/media/loginBg1.png": "/static/media/loginBg1.b8cbe889.png",
+    "static/media/loginBgas32423.png": "/static/media/loginBgas32423.9633d40d.png",
+    "static/media/prepladder-logo-white.png": "/static/media/prepladder-logo-white.afd07bbd.png",
+    "static/media/prepladderLogo.png": "/static/media/prepladderLogo.a57fed95.png",
+    "static/media/vector.png": "/static/media/vector.018185d2.png",
+    "static/media/vector1.png": "/static/media/vector1.3cfc9a2c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f727e0a5.js",
+    "static/js/2.ce906a9e.chunk.js",
+    "static/css/main.1a6ad877.chunk.css",
+    "static/js/main.c4b1b6de.chunk.js"
+  ]
+}
